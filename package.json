@@ -1,0 +1,19 @@
+{
+  "name": "fake-starwars-name",
+  "version": "1.0.0",
+  "description": "Generator to build Stas Wars name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angiestavnk/starwars-name-generator.git"
+  },
+  "author": "angiestavnk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angiestavnk/starwars-name-generator/issues"
+  },
+  "homepage": "https://github.com/angiestavnk/starwars-name-generator#readme"
+}
